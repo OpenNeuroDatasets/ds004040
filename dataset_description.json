@@ -1,0 +1,7 @@
+{
+  "Name": "Trance channeling EEG study",
+  "ReferencesAndLinks": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384530.2/"],
+  "License": "",
+  "Authors": ["Cedric Cannard", "Arnaud Delorme", "Helane Wahbeh" ],
+  "BIDSVersion": "1.1.1"
+}
